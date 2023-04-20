@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/oasis-wheel-playground/static/css/main.80914833.css",
-    "main.js": "/oasis-wheel-playground/static/js/main.2400ede2.js",
+    "main.js": "/oasis-wheel-playground/static/js/main.d60f82e1.js",
     "static/media/wheel.png": "/oasis-wheel-playground/static/media/wheel.1eb33ed35dd0dc01374d.png",
     "static/media/coat.png": "/oasis-wheel-playground/static/media/coat.06eb2e8bb4c8a3c5f46f.png",
     "static/media/about-oasis.png": "/oasis-wheel-playground/static/media/about-oasis.b6e85352a46f90be31ae.png",
@@ -22,10 +22,10 @@
     "index.html": "/oasis-wheel-playground/index.html",
     "static/media/arrow-left.svg": "/oasis-wheel-playground/static/media/arrow-left.8549ef5809c9150cbb01d6398df7c507.svg",
     "main.80914833.css.map": "/oasis-wheel-playground/static/css/main.80914833.css.map",
-    "main.2400ede2.js.map": "/oasis-wheel-playground/static/js/main.2400ede2.js.map"
+    "main.d60f82e1.js.map": "/oasis-wheel-playground/static/js/main.d60f82e1.js.map"
   },
   "entrypoints": [
     "static/css/main.80914833.css",
-    "static/js/main.2400ede2.js"
+    "static/js/main.d60f82e1.js"
   ]
 }
