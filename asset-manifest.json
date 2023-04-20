@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/oasis-wheel-playground/static/css/main.f6a97863.css",
+    "main.js": "/oasis-wheel-playground/static/js/main.1d085a28.js",
+    "static/media/wheel.png": "/oasis-wheel-playground/static/media/wheel.1eb33ed35dd0dc01374d.png",
+    "static/media/coat.png": "/oasis-wheel-playground/static/media/coat.06eb2e8bb4c8a3c5f46f.png",
+    "static/media/about-oasis.png": "/oasis-wheel-playground/static/media/about-oasis.b6e85352a46f90be31ae.png",
+    "static/media/EuclidCircularB-Medium.woff": "/oasis-wheel-playground/static/media/EuclidCircularB-Medium.f28d7b92fda1e2d7b18a.woff",
+    "static/media/EuclidCircularB-SemiBold.woff": "/oasis-wheel-playground/static/media/EuclidCircularB-SemiBold.8c87b69d145012c6b982.woff",
+    "static/media/EuclidCircularB-Regular.woff": "/oasis-wheel-playground/static/media/EuclidCircularB-Regular.4e9cf618d58d09ad4e64.woff",
+    "static/media/EuclidCircularB-Bold.woff": "/oasis-wheel-playground/static/media/EuclidCircularB-Bold.49d8e7bdcf27ff9fb67d.woff",
+    "static/media/EuclidCircularB-Light.woff": "/oasis-wheel-playground/static/media/EuclidCircularB-Light.426a17c048818b7de742.woff",
+    "static/media/wheel-outer.svg": "/oasis-wheel-playground/static/media/wheel-outer.ac353548e63c2b94d49e4940512b9e8b.svg",
+    "static/media/wheel-failed-text.svg": "/oasis-wheel-playground/static/media/wheel-failed-text.178f29d5e3efaf885315abb4b2a23aa9.svg",
+    "static/media/wheel-spin-text.svg": "/oasis-wheel-playground/static/media/wheel-spin-text.fe44fb456e6aceb93dcfdfec60b664af.svg",
+    "static/media/wallet.svg": "/oasis-wheel-playground/static/media/wallet.391968d1f5442179d494ebc91c942961.svg",
+    "static/media/footer-logo.svg": "/oasis-wheel-playground/static/media/footer-logo.049d6a55e8be47d70856b62fa1e04d08.svg",
+    "static/media/logo.svg": "/oasis-wheel-playground/static/media/logo.4163c8c0cc26fbe9ffcc0cf077714383.svg",
+    "static/media/wheel-won-text.svg": "/oasis-wheel-playground/static/media/wheel-won-text.20c78d7a27af7c77c11d9217649d12bf.svg",
+    "static/media/wheel-spin-won-circle.svg": "/oasis-wheel-playground/static/media/wheel-spin-won-circle.a67dd8945ae5bb8ce056da2d1a5e181e.svg",
+    "static/media/hero-banner-bg.svg": "/oasis-wheel-playground/static/media/hero-banner-bg.1e138794c42787536d5d.svg",
+    "index.html": "/oasis-wheel-playground/index.html",
+    "static/media/arrow-left.svg": "/oasis-wheel-playground/static/media/arrow-left.8549ef5809c9150cbb01d6398df7c507.svg",
+    "main.f6a97863.css.map": "/oasis-wheel-playground/static/css/main.f6a97863.css.map",
+    "main.1d085a28.js.map": "/oasis-wheel-playground/static/js/main.1d085a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a97863.css",
+    "static/js/main.1d085a28.js"
+  ]
+}
